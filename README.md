@@ -38,12 +38,20 @@ Aplicativo mobile desenvolvido com **Flutter** e **Dart** para visualização e 
 ```bash
 git clone https://github.com/seu-usuario/app_imobiliario.git
 cd app_imobiliario
-
+````
+2. **Instale as dependências:**
+   
+```bash
 flutter pub get
-
+```
+3. **Execute o app:**
+   
+```bash   
 flutter run
+```
+## 📁 Estrutura de Pastas
 
-```bash 
+```text
 lib/
 ├── main.dart
 ├── screens/             # Telas do app (Home, Alugar, Anuncie, Perfil, etc.)
@@ -51,3 +59,4 @@ lib/
 ├── models/              # Modelos de dados (visita, imóvel, etc)
 ├── services/            # Lógicas de serviço (ex: SharedPreferences)
 └── helpers/             # Funções utilitárias (formatadores, validadores)
+
