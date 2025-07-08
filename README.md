@@ -27,7 +27,7 @@ Aplicativo mobile desenvolvido com **Flutter** e **Dart** para visualização e 
 |--------------|------------------|----------------|
 | ![home](assets/screenshots/home.png) | ![anunciar](assets/screenshots/anunciar.png) | ![meus-anuncios](assets/screenshots/meus_anuncios.png) |
 
-> (📌 Adicione as imagens das telas reais no diretório `assets/screenshots/` e atualize os caminhos acima.)
+
 
 ---
 
